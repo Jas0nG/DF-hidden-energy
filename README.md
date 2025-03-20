@@ -1,1 +1,3 @@
 # DF-hidden-energy
+
+init
